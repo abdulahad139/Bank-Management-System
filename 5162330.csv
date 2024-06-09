@@ -1,0 +1,14 @@
+Account Holder,AccountType,Balance,Password,Phone Number,CNIC,Address,Nationality
+abdul ahad,Checking,56000,secretpassword,1234567890,1234567983215,gulshan,pakistam
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-15,Deposit,5000,309,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-15,Deposit,45000,792,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-15,Money Transfer,2000,836,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-18,Deposit,12000,204,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-18,Withdraw,500,837,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-19,Money Transfer,2500,794,,,,

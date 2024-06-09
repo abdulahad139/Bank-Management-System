@@ -1,0 +1,12 @@
+Account Holder,AccountType,Balance,Password,Phone Number,CNIC,Address,Nationality
+Fahad Rasheed,Checking,10500,fahadpassword,6541239087,4651329871254,water pump,pakistan
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-15,Deposit,9500,387,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-15,Withdraw,10000,499,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-15,Deposit,7000,909,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-15,Money Transfer,2000,345,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,
+2023-07-19,Money Transfer,2500,696,,,,

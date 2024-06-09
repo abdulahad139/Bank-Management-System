@@ -1,0 +1,6 @@
+Account Holder,AccountType,Balance,Loan Duration,Remaining Interest,Password,Phone Number,CNIC,Address,Nationality
+abdul ahad,Loan,450000,9,40500.0,secretpassword,1234567899.0,1234567983215,Gulshan,paksitan
+Date,Transaction Type,Amount,Transaction ID,,,,,,
+2023-07-19,Loan Taken,500000,407,,,,,,
+Date,Transaction Type,Amount,Transaction ID,,,,,,
+2023-07-19,Loan paid back,450000,167,,,,,,
